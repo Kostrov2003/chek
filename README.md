@@ -3,11 +3,11 @@
 
 ---------------------
 
-## Создаем контейнер
- sudo docker build -t test .
+## Создаем контейнер (Ubuntu)
+$ sudo docker build -t test .
 
 ---------------------
 
-## Запускаем контейнер
- sudo docker run --rm test
+## Запускаем контейнер (Ubuntu)
+$ sudo docker run --rm test
 
