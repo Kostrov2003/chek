@@ -29,8 +29,7 @@
  Built:             Thu Feb  9 19:46:49 2023
  OS/Arch:           linux/amd64
  Context:           default
-
-`Server: Docker Engine - Community
+ Server: Docker Engine - Community
  Engine:
   Version:          23.0.1
   API version:      1.42 (minimum version 1.12)
