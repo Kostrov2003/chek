@@ -30,7 +30,7 @@
  OS/Arch:           linux/amd64
  Context:           default
 
-Server: Docker Engine - Community
+`Server: Docker Engine - Community
  Engine:
   Version:          23.0.1
   API version:      1.42 (minimum version 1.12)
@@ -47,8 +47,8 @@ Server: Docker Engine - Community
   GitCommit:        v1.1.4-0-g5fd4c4d
  docker-init:
   Version:          0.19.0
-  GitCommit:        de40ad0
-`
+  GitCommit:        de40ad0`
+
 
 должны увидеть что то подобное
 
