@@ -1,4 +1,11 @@
+print("Hello user, my name is Fedya")
+print("Soon I will make data entry in this program through the Docke container, but for now you can change the data in the code of my program (main.py)")
+
+
+
 class Cheker():
+
+
 
     def run(self):
         a = 1
